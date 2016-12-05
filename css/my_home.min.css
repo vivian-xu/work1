@@ -1,0 +1,44 @@
+/*  content  */
+html {
+  font-size: 14px; }
+
+body {
+  min-width: 270px; }
+
+#my_home {
+  padding-bottom: 100px; }
+
+.nav-link,
+.nav-name,
+#my_home .shop_name {
+  color: #fff; }
+
+.nav_center {
+  margin-left: -16px; }
+
+#my_home .shop_name {
+  padding: 3rem 0 2.5rem 0;
+  background-color: #bae4ba; }
+
+.shop_name {
+  text-align: center; }
+  .shop_name > .avater {
+    width: 4rem;
+    height: 4rem;
+    margin: 1em 0 .5rem 0;
+    border: 2px solid #fff;
+    border-radius: 999px;
+    background: #ffeb3b;
+    /* test */ }
+  .shop_name > .name {
+    font-size: 16px; }
+
+.weui_grid:link, .weui_grid:visited, .weui_grid:hover {
+  color: #000; }
+
+.weui_grid:active {
+  color: #ee7171; }
+
+.icon_center {
+  font-size: 25px;
+  text-align: center; }
